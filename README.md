@@ -4,7 +4,7 @@
 ### 🚀 Digital Technology & Innovation (DTI) | Southeast Asia University 🎓
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer+%E2%9C%A8;Frontend+%26+Database+Enthusiast;Always+Building+%26+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=ff7597&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer+%E2%9C%A8;Frontend+%26+Database+Enthusiast;Always+Building+%26+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -53,32 +53,36 @@
 
 ### 🌸 สถิติและกิจกรรม (GitHub Performance)
 
-<div align="center">
+<table border="0" width="100%">
+  <tr valign="middle">
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=16" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&text_color=555555&border_radius=16&card_width=495" width="100%" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
-  <!-- กล่องสถิติ & ภาษา (ขอบมน ธีมชมพูพาสเทล) -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=16" height="195" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&text_color=555555&border_radius=16" height="195" alt="Top Langs" />
-
-  <br/><br/>
-
-  <!-- Streak สถิติเขียนโค้ดต่อเนื่อง (ธีมชมพูพาสเทล) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ffb6c1&stroke=ffb6c1&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=16" width="70%" alt="GitHub Streak" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ffb6c1&stroke=ffb6c1&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=16" width="100%" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 🎀 ผลงานเด่น (Featured Projects)
 
-<div align="center">
-
-  <a href="https://github.com/Jiraput2004/DTI_SAU_WOW_COFFEE">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=DTI_SAU_WOW_COFFEE&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=16" width="34%" alt="DTI_SAU_WOW_COFFEE" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Jiraput2004/GOTOKNOW">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=GOTOKNOW&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=16" width="34%" alt="GOTOKNOW" />
-  </a>
-
-</div>
+<table border="0" width="100%">
+  <tr valign="top">
+    <td width="50%" align="center">
+      <a href="https://github.com/Jiraput2004/DTI_SAU_WOW_COFFEE">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=DTI_SAU_WOW_COFFEE&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=16" width="100%" alt="DTI_SAU_WOW_COFFEE" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Jiraput2004/GOTOKNOW">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=GOTOKNOW&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=16" width="100%" alt="GOTOKNOW" />
+      </a>
+    </td>
+  </tr>
+</table>
