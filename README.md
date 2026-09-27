@@ -50,32 +50,37 @@
 </div>
 
 ---
+
 ### 🌸 สถิติและกิจกรรม (GitHub Performance)
 
 <div align="center">
 
-  <!-- แถวที่ 1 -->
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ff7597&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=20&cache_bust=1" alt="GitHub Stats" />
+  <!-- แถวที่ 1: ภาพรวมสถิติ GitHub + สัดส่วนภาษาที่เขียนบ่อยสุด -->
+  <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ff7597&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=20&v=7" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&langs_count=5&card_width=400&bg_color=ffffff&border_color=ff7597&title_color=ff7597&text_color=555555&border_radius=20&cache_bust=1" alt="Top Langs" />
+  <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&langs_count=5&card_width=420&bg_color=ffffff&border_color=ff7597&title_color=ff7597&text_color=555555&border_radius=20&v=7" alt="Top Langs" />
 
   <br/><br/>
 
-  <!-- แถวที่ 2 -->
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ff7597&stroke=ff7597&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=20&cache_bust=1" alt="GitHub Streak" />
+  <!-- แถวที่ 2: สถิติ Streak ต่อเนื่อง + สถิติช่วงเวลาการเขียนโค้ด (Productive Time) -->
+  <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ff7597&stroke=ff7597&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=20&v=7" alt="GitHub Streak" />
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=DTI_SAU_WOW_COFFEE&bg_color=ffffff&border_color=ff7597&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=20&cache_bust=1" alt="DTI_SAU_WOW_COFFEE" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jiraput2004&theme=pink&utcOffset=7" alt="Productive Time" />
 
 </div>
 
 ---
 
-### 🎀 ผลงานเพิ่มเติม (Other Projects)
+### 🎀 ผลงานเด่น (Featured Projects)
 
 <div align="center">
 
+  <a href="https://github.com/Jiraput2004/DTI_SAU_WOW_COFFEE">
+    <img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=DTI_SAU_WOW_COFFEE&bg_color=ffffff&border_color=ff7597&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=20&v=7" alt="DTI_SAU_WOW_COFFEE" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Jiraput2004/GOTOKNOW">
-    <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=GOTOKNOW&bg_color=ffffff&border_color=ff7597&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=20&cache_bust=1" alt="GOTOKNOW" />
+    <img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=GOTOKNOW&bg_color=ffffff&border_color=ff7597&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=20&v=7" alt="GOTOKNOW" />
   </a>
 
 </div>
