@@ -24,6 +24,8 @@
 
 <p### 📊 สถิติของฉัน (GitHub Stats)
 
+### 📊 สถิติของฉัน (GitHub Stats)
+
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/><br/>
