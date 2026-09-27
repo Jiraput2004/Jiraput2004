@@ -1,8 +1,10 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Jiraput%20Nayem%20%F0%9F%91%8B&text2=Digital%20Technology%20%26%20Innovation%20(DTI)%20%7C%20SAU&width=800&height=210&theme=dark" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/greetings.gif" width="100%" alt="Header Banner" />
 
   <br/><br/>
+  
+  <h1>สวัสดีครับ ผม จิรภัทรข์ นาแหยม (นนท์) 👋</h1>
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
