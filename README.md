@@ -50,11 +50,10 @@
 </div>
 
 ---
-
 ### 🌸 สถิติและกิจกรรม (GitHub Performance)
 
 <table border="0" width="100%">
-  <!-- แถวที่ 1: ภาพรวมสถิติ + สัดส่วนภาษาที่เขียน -->
+  <!-- แถวที่ 1: สถิติ GitHub + ภาษาที่ใช้เขียนบ่อย -->
   <tr valign="middle">
     <td width="50%" align="center">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=16&cache_seconds=1800" width="100%" alt="GitHub Stats" />
@@ -63,13 +62,13 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&text_color=555555&border_radius=16&card_width=450&cache_seconds=1800" width="100%" alt="Top Langs" />
     </td>
   </tr>
-  <!-- แถวที่ 2: สถิติทำต่อเนื่อง (Streak) + สรุปจำนวนครั้งที่อัปงาน/แก้งานทั้งหมด -->
+  <!-- แถวที่ 2: Streak เปลวไฟเคลื่อนไหว + กราฟประวัติการแก้งาน/อัปงานคลื่นพาสเทล -->
   <tr valign="middle">
     <td width="50%" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ffb6c1&stroke=ffb6c1&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=16" width="100%" alt="GitHub Streak" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiraput2004&theme=pink" width="100%" alt="Commit & Contribution History" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jiraput2004&bg_color=ffffff&color=ff7597&line=ff7597&point=ffb6c1&area=true&hide_border=false&border_color=ffb6c1&radius=16" width="100%" alt="Commit & Contribution Activity Graph" />
     </td>
   </tr>
 </table>
