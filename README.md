@@ -1,10 +1,10 @@
-<!-- Header Wave เคลื่อนไหว สีสันไล่เฉด -->
+<!-- Header Banner โค้ดใหม่ ไม่พังแน่นอน -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,3&height=180&section=header&text=JIRAPUT%20NAYEM%20(NON)&fontSize=36&fontAlignY=38&desc=Digital%20Technology%20%26%20Innovation%20(DTI)%20%7C%20SAU&descAlignY=58&descFontSize=16&fontColor=ffffff" width="100%" />
+  <h1 align="center">
+    <span style="color: #00FFCC;">⚡ JIRAPUT NAYEM (NON) ⚡</span>
+  </h1>
 
-  <br/>
-
-  <!-- Animated Typing Text -->
+  <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Non+%F0%9F%91%8B;Passionate+about+Web+Development+%E2%9C%A8;DTI+Student+%40+Southeast+Asia+University;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
