@@ -53,15 +53,22 @@
 
 ### 🌸 สถิติและกิจกรรม (GitHub Performance)
 
-<p align="center">
-  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=20" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&text_color=555555&border_radius=20" alt="Top Langs" />
-</p>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent;">
+    <tr valign="middle" style="border: none; background: transparent;">
+      <td align="center" style="border: none; padding: 0 10px;">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&hide=issues,prs&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=20" height="175" alt="GitHub Stats" />
+      </td>
+      <td align="center" style="border: none; padding: 0 10px;">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&langs_count=5&card_width=380&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&text_color=555555&border_radius=20" height="175" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ffb6c1&stroke=ffb6c1&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=20" alt="GitHub Streak" />
-</p>
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ffb6c1&stroke=ffb6c1&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=20" width="82%" alt="GitHub Streak" />
+</div>
 
 ---
 
