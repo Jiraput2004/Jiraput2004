@@ -53,21 +53,36 @@
 
 ### 📊 สถิติและกิจกรรม (GitHub Performance)
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&theme=default&rank_icon=github&border_radius=10" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&theme=default&border_radius=10" width="48%" alt="Top Langs" />
-</p>
+<table border="0" width="100%">
+  <tr valign="top">
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&theme=default&rank_icon=github&border_radius=10" width="100%" height="200" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&theme=default&border_radius=10" width="100%" height="200" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&theme=default&border_radius=10" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&theme=default&border_radius=10" width="100%" alt="GitHub Streak" />
 </p>
+
+---
+
 ### 📌 ผลงานเด่น (Featured Projects)
 
-<p align="center">
-  <a href="https://github.com/Jiraput2004/DTI_SAU_WOW_COFFEE">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=DTI_SAU_WOW_COFFEE&theme=default&border_radius=10" width="48%" alt="DTI_SAU_WOW_COFFEE" />
-  </a>
-  <a href="https://github.com/Jiraput2004/GOTOKNOW">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=GOTOKNOW&theme=default&border_radius=10" width="48%" alt="GOTOKNOW" />
-  </a>
-</p>
+<table border="0" width="100%">
+  <tr valign="top">
+    <td width="50%" align="center">
+      <a href="https://github.com/Jiraput2004/DTI_SAU_WOW_COFFEE">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=DTI_SAU_WOW_COFFEE&theme=default&border_radius=10" width="100%" alt="DTI_SAU_WOW_COFFEE" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Jiraput2004/GOTOKNOW">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=GOTOKNOW&theme=default&border_radius=10" width="100%" alt="GOTOKNOW" />
+      </a>
+    </td>
+  </tr>
+</table>
