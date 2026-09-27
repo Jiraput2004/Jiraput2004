@@ -53,23 +53,34 @@
 
 ### 🌸 สถิติและกิจกรรม (GitHub Performance)
 
-<div align="center">
-
-  <!-- แถวที่ 1: สถิติรวม + ภาษาที่เขียน (สูง 195 เท่ากันเป๊ะ) -->
-  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=16&hide=prs,issues&v=3" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&langs_count=5&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&text_color=555555&border_radius=16&card_width=420&v=3" alt="Top Langs" />
-
-  <br/><br/>
-
-  <!-- แถวที่ 2: Streak ต่อเนื่อง + สรุปภาพรวม Commit ไม่ซ้ำอันบน (สูง 195 เท่ากันเป๊ะ) -->
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ffb6c1&stroke=ffb6c1&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=16&v=3" alt="GitHub Streak" />
-  &nbsp;&nbsp;
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiraput2004&theme=pink" alt="Profile Summary" />
-
-</div>
-
----
+<table border="0" width="100%">
+  <!-- แถวที่ 1 -->
+  <tr valign="middle">
+    <td width="50%" align="center">
+      <div style="border: 2px solid #ffb6c1; border-radius: 16px; padding: 6px; background-color: #ffffff;">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&hide_border=true&bg_color=ffffff&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github" width="100%" alt="GitHub Stats" />
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <div style="border: 2px solid #ffb6c1; border-radius: 16px; padding: 6px; background-color: #ffffff;">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&hide_border=true&langs_count=5&card_width=450&bg_color=ffffff&title_color=ff7597&text_color=555555" width="100%" alt="Top Langs" />
+      </div>
+    </td>
+  </tr>
+  <!-- แถวที่ 2 -->
+  <tr valign="middle">
+    <td width="50%" align="center">
+      <div style="border: 2px solid #ffb6c1; border-radius: 16px; padding: 6px; background-color: #ffffff;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&hide_border=true&stroke=ffb6c1&ring=ff7597&fire=ff7597&currStreakLabel=ff7597" width="100%" alt="GitHub Streak" />
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <div style="border: 2px solid #ffb6c1; border-radius: 16px; padding: 6px; background-color: #ffffff;">
+        <img src="https://github-profile-trophy.vercel.app/?username=Jiraput2004&theme=flat&no-frame=true&column=3&margin_w=10&margin_h=10&no-bg=true" width="100%" alt="GitHub Trophies" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ### 🎀 ผลงานเด่น (Featured Projects)
 
