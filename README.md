@@ -57,27 +57,19 @@
   <!-- แถวที่ 1 -->
   <tr valign="middle">
     <td width="50%" align="center">
-      <div style="border: 2px solid #ffb6c1; border-radius: 16px; padding: 6px; background-color: #ffffff;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&hide_border=true&bg_color=ffffff&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github" width="100%" alt="GitHub Stats" />
-      </div>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ff7597&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=20&v=4" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <div style="border: 2px solid #ffb6c1; border-radius: 16px; padding: 6px; background-color: #ffffff;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&hide_border=true&langs_count=5&card_width=450&bg_color=ffffff&title_color=ff7597&text_color=555555" width="100%" alt="Top Langs" />
-      </div>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&langs_count=5&card_width=450&bg_color=ffffff&border_color=ff7597&title_color=ff7597&text_color=555555&border_radius=20&v=4" width="100%" alt="Top Langs" />
     </td>
   </tr>
   <!-- แถวที่ 2 -->
   <tr valign="middle">
     <td width="50%" align="center">
-      <div style="border: 2px solid #ffb6c1; border-radius: 16px; padding: 6px; background-color: #ffffff;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&hide_border=true&stroke=ffb6c1&ring=ff7597&fire=ff7597&currStreakLabel=ff7597" width="100%" alt="GitHub Streak" />
-      </div>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ff7597&stroke=ff7597&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=20&v=4" width="100%" alt="GitHub Streak" />
     </td>
     <td width="50%" align="center">
-      <div style="border: 2px solid #ffb6c1; border-radius: 16px; padding: 6px; background-color: #ffffff;">
-        <img src="https://github-profile-trophy.vercel.app/?username=Jiraput2004&theme=flat&no-frame=true&column=3&margin_w=10&margin_h=10&no-bg=true" width="100%" alt="GitHub Trophies" />
-      </div>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&show=reviews,discussions_started&hide=stars,prs,issues,contribs&bg_color=ffffff&border_color=ff7597&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=20&custom_title=Contributions%20Summary&v=4" width="100%" alt="Contributions Summary" />
     </td>
   </tr>
 </table>
