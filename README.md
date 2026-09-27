@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- 🌌 Banner Header กว้าง สวย คมชัด ไม่แตกแน่นอน -->
-<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1200&q=80" width="100%" height="220" style="object-fit: cover; border-radius: 12px;" alt="Banner" />
+<!-- 🌌 Banner Header ลายแผงวงจร Cyber Circuit สีนีออน -->
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" width="100%" height="220" style="object-fit: cover; border-radius: 12px;" alt="Banner" />
 
 <br/><br/>
 
@@ -14,11 +14,10 @@
 
 <br/>
 
-<!-- 🌐 Social Badges -->
+<!-- 🌐 Instagram Badge -->
 <a href="https://www.instagram.com/jt_nm_08.08?stkn=MWlqbjNlbXZqOXgxZg==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Jiraput2004&label=Profile%20Views&color=00FFCC&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -71,5 +70,5 @@
 
 <br/>
 
-<!-- Footer Wave ปิดท้ายอย่างเนียนตา -->
+<!-- Footer Wave ปิดท้าย -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,3&height=100&section=footer" width="100%" />
