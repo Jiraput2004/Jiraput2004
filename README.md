@@ -1,22 +1,21 @@
 <div align="center">
 
-# ⚡ JIRAPUT NAYEM
+# ⚡ JIRAPUT NAYEM (NON) ⚡
 
-### `Jiraput2004` · Digital Technology & Innovation
+### 🎓 นักศึกษาเทคโนโลยีดิจิทัลและนวัตกรรม (DTI)
 
-<p>
-  <b>Web Developer</b> • <b>Database Enthusiast</b> • <b>Digital Innovation</b>
-</p>
+### 🏫 มหาวิทยาลัยเอเชียอาคเนย์
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=FF6B9D&center=true&vCenter=true&width=600&lines=Building+ideas+into+web+experiences+%E2%9C%A8;Learning+%E2%86%92+Building+%E2%86%92+Improving+%F0%9F%9A%80;Frontend+%7C+Backend+%7C+Database" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=FF6B9D&center=true&vCenter=true&width=650&lines=นักพัฒนาเว็บไซต์มือใหม่+%E2%9C%A8;สนใจ+Frontend+%26+Database+%F0%9F%92%BB;เรียนรู้+%E2%80%A2+ทดลอง+%E2%80%A2+สร้างสรรค์+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/Jiraput2004">
-  <img src="https://img.shields.io/badge/GitHub-Jiraput2004-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Jiraput2004-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+&nbsp;
 <a href="https://www.instagram.com/jt_nm_08.08">
-  <img src="https://img.shields.io/badge/Instagram-FF6B9D?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-FF6B9D?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </div>
@@ -25,81 +24,85 @@
 
 ---
 
-## 👋 About Me
+## 👋 เกี่ยวกับผม
 
-> **Hi, I'm Non — Jiraput Nayem.**
-> A Digital Technology & Innovation student who enjoys turning ideas into useful digital experiences.
+สวัสดีครับ ผม **นนท์ (Jiraput Nayem)** 👋
+เป็นนักศึกษาสาขา **เทคโนโลยีดิจิทัลและนวัตกรรม (DTI)**
+ที่ชื่นชอบการเขียนโปรแกรม การพัฒนาเว็บไซต์ และการทดลองเทคโนโลยีใหม่ ๆ
 
-🎓 **Major:** Digital Technology & Innovation (DTI)
-🏫 **University:** Southeast Asia University (SAU)
-💻 **Focus:** Web Development & Database
-🌱 **Currently:** Learning, building, and experimenting with new technologies
-⚡ **Fun fact:** I enjoy discovering new tools and turning small ideas into projects.
+🎓 **กำลังศึกษา:** เทคโนโลยีดิจิทัลและนวัตกรรม (DTI)
+🏫 **มหาวิทยาลัย:** มหาวิทยาลัยเอเชียอาคเนย์ (SAU)
+💻 **สนใจ:** Web Development & Database
+🌱 **กำลังเรียนรู้:** การพัฒนาเว็บไซต์และการออกแบบระบบฐานข้อมูล
+🎯 **เป้าหมาย:** พัฒนาทักษะด้าน Programming และสร้างผลงานที่สามารถนำไปใช้งานได้จริง
+⚡ **งานอดิเรก:** ทดลอง Tools และ Technology ใหม่ ๆ
 
 ---
 
-## 🧩 Tech Stack
+## 🛠️ ทักษะและเทคโนโลยี
 
 <div align="center">
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=light">
 
 <br><br>
 
-### ⚙️ Programming & Backend
+### 💻 Programming
 
-<img src="https://skillicons.dev/icons?i=c,python,cs&theme=light" />
+<img src="https://skillicons.dev/icons?i=c,python,cs&theme=light">
 
 <br><br>
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=light" />
-&nbsp;
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48">
 
 <br><br>
 
-### 🛠️ Tools
+### 🔧 Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light">
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 ผลงานที่น่าสนใจ
 
 <div align="center">
 
 <a href="https://github.com/Jiraput2004/DTI_SAU_WOW_COFFEE">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=DTI_SAU_WOW_COFFEE&bg_color=ffffff&border_color=ff6b9d&title_color=ff6b9d&icon_color=ff6b9d&text_color=555555&border_radius=18"
-    width="420"
-  />
+<img
+src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=DTI_SAU_WOW_COFFEE&bg_color=ffffff&border_color=ff6b9d&title_color=ff6b9d&icon_color=ff6b9d&text_color=555555&border_radius=18"
+width="420"
+/>
 </a>
 
+  
+
 <a href="https://github.com/Jiraput2004/GOTOKNOW">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=GOTOKNOW&bg_color=ffffff&border_color=ff6b9d&title_color=ff6b9d&icon_color=ff6b9d&text_color=555555&border_radius=18"
-    width="420"
-  />
+<img
+src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=GOTOKNOW&bg_color=ffffff&border_color=ff6b9d&title_color=ff6b9d&icon_color=ff6b9d&text_color=555555&border_radius=18"
+width="420"
+/>
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 สถิติการใช้งาน GitHub
 
 <div align="center">
 
 <img
-src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&hide_border=false&bg_color=ffffff&border_color=ff6b9d&title_color=ff6b9d&icon_color=ff6b9d&text_color=555555&rank_icon=github&border_radius=18"
+src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ff6b9d&title_color=ff6b9d&icon_color=ff6b9d&text_color=555555&rank_icon=github&border_radius=18"
 height="180"
 />
+
+  
 
 <img
 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&langs_count=6&bg_color=ffffff&border_color=ff6b9d&title_color=ff6b9d&text_color=555555&border_radius=18"
@@ -117,26 +120,25 @@ height="180"
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 กิจกรรมบน GitHub
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Jiraput2004/Jiraput2004/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Jiraput2004/Jiraput2004/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
 </div>
 
 ---
 
-## 💭 Developer Mindset
+## 💡 แนวคิดในการพัฒนา
 
 <div align="center">
 
-> *"Build something useful. Learn something new.
-> Improve a little every day."*
+### **เรียนรู้ → ทดลอง → สร้าง → แก้ไข → พัฒนา 🚀**
 
-<br>
-
-**Learning → Building → Breaking → Fixing → Growing 🚀**
+> ✨ ทุกโปรเจกต์คือโอกาสในการเรียนรู้สิ่งใหม่
+> 💻 ทุกปัญหาคือโอกาสในการพัฒนาตัวเอง
+> 🌱 ค่อย ๆ เรียนรู้และพัฒนาไปทีละขั้น
 
 </div>
 
@@ -144,12 +146,12 @@ height="180"
 
 <div align="center">
 
-### 🌸 Thanks for visiting my profile!
+## 🌸 ขอบคุณที่แวะมาเยี่ยมชม Profile ของผมครับ!
 
-<img src="https://komarev.com/ghpvc/?username=Jiraput2004&color=ff6b9d&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Jiraput2004&color=ff6b9d&style=flat-square&label=ผู้เข้าชมโปรไฟล์">
 
 <br><br>
 
-**Made with ☕ + 💻 + ✨**
+**สร้างด้วย 💻 + ☕ + ✨**
 
 </div>
