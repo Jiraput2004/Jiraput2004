@@ -56,19 +56,19 @@
   <!-- แถวที่ 1: สถิติ GitHub + สัดส่วนภาษาที่เขียน -->
   <tr valign="middle">
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=16&cache_seconds=1800" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=16&v=2" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&text_color=555555&border_radius=16&card_width=450&cache_seconds=1800" width="100%" alt="Top Langs" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&text_color=555555&border_radius=16&card_width=450&v=2" width="100%" alt="Top Langs" />
     </td>
   </tr>
-  <!-- แถวที่ 2: สถิติความต่อเนื่อง + กราฟสรุปประวัติ Commit พาสเทล -->
+  <!-- แถวที่ 2: Streak ต่อเนื่อง + กราฟสรุปประวัติ Commit คลื่นสีชมพูพาสเทล ขอบมน -->
   <tr valign="middle">
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ffb6c1&stroke=ffb6c1&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=16" width="100%" alt="Contribution Streak: สถิติการเขียนโค้ดต่อเนื่อง" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ffb6c1&stroke=ffb6c1&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=16&v=2" width="100%" alt="GitHub Streak" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiraput2004&theme=pink" width="100%" alt="Commit & Contribution History" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&include_all_commits=true&count_private=true&hide=stars,prs,issues&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=16&custom_title=Commit%20%26%20Contribution%20Summary&v=2" width="100%" alt="Commit & Contribution Summary" />
     </td>
   </tr>
 </table>
