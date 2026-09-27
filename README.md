@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🌸 Jiraput Nayem (NON)
+# 🌸 จิรภัทรข์ นาแหยม (นนท์)
 
-### 💻 Student of Digital Technology and Innovation (DTI) • SAU  
-**Web Developer & Tech Enthusiast**
+### 💻 นักศึกษาสาขาเทคโนโลยีดิจิทัลและนวัตกรรม (DTI) • มหาวิทยาลัยเอเชียอาคเนย์  
+**นักพัฒนาเว็บไซต์ & ผู้หลงใหลในเทคโนโลยี**
 
 <br>
 
@@ -12,11 +12,11 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,c,python,cs,git,github,vscode&perline=10" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,c,python,cs,git,github,vscode&perline=10" alt="ทักษะและเครื่องมือ" />
 
 <br><br>
 
-> 💡 *"เรียนรู้จากการสร้าง และพัฒนาจากข้อผิดพลาด"*
+> 💡 *"เรียนรู้จากการลงมือสร้าง และพัฒนาจากทุกข้อผิดพลาด"*
 
 </div>
 
@@ -24,62 +24,62 @@
 
 ### 👋 เกี่ยวกับผม
 
-- 🎓 **การศึกษา:** นักศึกษาสาขาเทคโนโลยีดิจิทัลและนวัตกรรม (DTI) มหาวิทยาลัยเอเชียอาคเนย์ (SAU)
-- 💻 **ความสนใจหลัก:** Web Development (Frontend & Database)
-- 🚀 **เป้าหมาย:** ชอบเปลี่ยนไอเดียให้กลายเป็น Project และพัฒนาตัวเองให้เป็น Developer ที่สร้างผลงานใช้งานได้จริง
-- 🌱 **การเรียนรู้:** สนุกกับการอัปเดตเทคโนโลยีใหม่ ๆ ตลอดเวลา
+- 🎓 **การศึกษา:** นักศึกษาปริญญาตรี สาขาเทคโนโลยีดิจิทัลและนวัตกรรม (DTI) มหาวิทยาลัยเอเชียอาคเนย์ (SAU)
+- 💻 **สิ่งที่กำลังโฟกัส:** การพัฒนาเว็บไซต์ (การออกแบบหน้าเว็บ ฝั่งหน้าบ้าน และการจัดการฐานข้อมูล)
+- 🚀 **เป้าหมาย:** มุ่งมั่นเปลี่ยนไอเดียให้เป็นผลงานจริง และพัฒนาทักษะสู่การเป็นนักพัฒนาที่สร้างสรรค์ระบบที่ใช้งานได้จริง
+- 🌱 **การเรียนรู้:** มีความสุขกับการเปิดรับและทดลองเทคโนโลยีใหม่ ๆ อยู่เสมอ
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ ทักษะและความเชี่ยวชาญ
 
 <p align="center">
-  <b>Frontend Development</b><br>
+  <b>🌐 การพัฒนาส่วนหน้าบ้าน (Frontend Development)</b><br>
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" alt="Frontend" />
 </p>
 
 <p align="center">
-  <b>Programming Languages</b><br>
+  <b>💻 ภาษาคอมพิวเตอร์ที่ใช้งาน (Programming Languages)</b><br>
   <img src="https://skillicons.dev/icons?i=c,python,cs" alt="Programming" />
 </p>
 
 <p align="center">
-  <b>Database Management</b><br>
+  <b>🗄️ การจัดการฐานข้อมูล (Database)</b><br>
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/">
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   </a>
 </p>
 
 <p align="center">
-  <b>Tools & Workflow</b><br>
+  <b>🔧 เครื่องมือและกระบวนการทำงาน (Tools & Workflow)</b><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 ผลงานเด่นและโปรเจกต์
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">☕ DTI SAU WOW COFFEE</h3>
       <p align="center">
-        โปรเจกต์ที่พัฒนาขึ้นในช่วงการเรียนรู้ด้านเทคโนโลยีดิจิทัล และเป็นหนึ่งในผลงานที่รวบรวมไว้บน GitHub
+        โปรเจกต์ที่สร้างสรรค์ขึ้นระหว่างการศึกษา เพื่อฝึกฝนการออกแบบระบบและการพัฒนาผลงานดิจิทัลที่ใช้งานได้จริง
       </p>
       <p align="center">
         <a href="https://github.com/Jiraput2004/DTI_SAU_WOW_COFFEE">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-FF6B9D?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+          <img src="https://img.shields.io/badge/ดูโปรเจกต์-FF6B9D?style=for-the-badge&logo=github&logoColor=white" alt="ดูโปรเจกต์" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🌏 GOTOKNOW</h3>
       <p align="center">
-        อีกหนึ่งโปรเจกต์ที่จัดทำขึ้นเพื่อฝึกฝนทักษะการพัฒนา Software และนำความรู้จากการเรียนมาประยุกต์ใช้กับการสร้างผลงานจริง
+        โปรเจกต์ฝึกฝนทักษะการเขียนโปรแกรมและการนำความรู้ทางทฤษฎีมาประยุกต์ใช้สร้างสรรค์เป็นซอฟต์แวร์จริง
       </p>
       <p align="center">
         <a href="https://github.com/Jiraput2004/GOTOKNOW">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-FF6B9D?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+          <img src="https://img.shields.io/badge/ดูโปรเจกต์-FF6B9D?style=for-the-badge&logo=github&logoColor=white" alt="ดูโปรเจกต์" />
         </a>
       </p>
     </td>
@@ -88,15 +88,15 @@
 
 ---
 
-### 📚 Roadmap การพัฒนา
+### 📚 แผนผังเส้นทางการเรียนรู้
 
 <div align="center">
 
 ```mermaid
 graph TD
-    A[Web Development] --> B[🎨 Frontend]
-    A --> C[⚙️ Programming]
-    A --> D[🗄️ Database]
-    B --> E[💡 Full-Stack Development]
+    A[การพัฒนาเว็บไซต์] --> B[🎨 ด้านหน้าบ้าน<br>Frontend]
+    A --> C[⚙️ การเขียนโปรแกรม<br>Programming]
+    A --> D[🗄️ การจัดการฐานข้อมูล<br>Database]
+    B --> E[💡 นักพัฒนาเต็มตัว<br>Full-Stack Developer]
     C --> E
     D --> E
