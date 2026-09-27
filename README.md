@@ -56,13 +56,42 @@
 
 <div align="center">
 
-| 📈 GitHub Overview | 💻 Most Used Languages |
-| :---: | :---: |
-| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12" height="185" alt="GitHub Stats" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&theme=tokyonight&border_radius=12" height="185" alt="Top Langs" /> |
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12" height="175" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&theme=tokyonight&border_radius=12" height="175" alt="Top Langs" />
 
-<br/>
+  <br/><br/>
 
-<!-- Streak การเขียนโค้ดต่อเนื่อง จัดวางเต็มความกว้างด้านล่าง -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&theme=tokyonight&border_radius=12" width="60%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&theme=tokyonight&border_radius=12" width="60%" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- 📈 กราฟคลื่นสถิติความเคลื่อนไหว Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jiraput2004&theme=tokyo-night&area=true&hide_border=true&radius=12" width="85%" alt="Activity Graph" />
+
+</div>
+
+---
+
+### 📌 ผลงานเด่น (Featured Repositories)
+
+<div align="center">
+
+  <a href="https://github.com/Jiraput2004/JavaDTILecture01">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=JavaDTILecture01&theme=tokyonight&border_radius=10" height="120" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Jiraput2004/JavaDTILecture02">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=JavaDTILecture02&theme=tokyonight&border_radius=10" height="120" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- 💬 กล่องคำคม Dev Quote อัตโนมัติ -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
