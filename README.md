@@ -59,6 +59,8 @@
 
 ### 🚀 ผลงานเด่นและโปรเจกต์
 
+### 🚀 ผลงานเด่นและโปรเจกต์
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -68,7 +70,7 @@
       </p>
       <p align="center">
         <a href="https://github.com/Jiraput2004/DTI_SAU_WOW_COFFEE">
-          <img src="https://img.shields.io/badge/ดูโปรเจกต์-FF6B9D?style=for-the-badge&logo=github&logoColor=white" alt="ดูโปรเจกต์" />
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-FF6B9D?style=for-the-badge&logo=github&logoColor=white" alt="ดูโปรเจกต์" />
         </a>
       </p>
     </td>
@@ -79,7 +81,7 @@
       </p>
       <p align="center">
         <a href="https://github.com/Jiraput2004/GOTOKNOW">
-          <img src="https://img.shields.io/badge/ดูโปรเจกต์-FF6B9D?style=for-the-badge&logo=github&logoColor=white" alt="ดูโปรเจกต์" />
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-FF6B9D?style=for-the-badge&logo=github&logoColor=white" alt="ดูโปรเจกต์" />
         </a>
       </p>
     </td>
