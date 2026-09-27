@@ -53,36 +53,30 @@
 
 ### 🌸 สถิติและกิจกรรม (GitHub Performance)
 
-<table border="0" width="100%">
-  <tr valign="middle">
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=16" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&text_color=555555&border_radius=16&card_width=495" width="100%" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ffb6c1&stroke=ffb6c1&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=16" width="100%" alt="GitHub Streak" />
-</p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=20" height="195" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&text_color=555555&border_radius=20&card_width=450" height="195" alt="Top Langs" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ffb6c1&stroke=ffb6c1&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=20" width="85%" alt="GitHub Streak" />
+
+</div>
 
 ---
 
 ### 🎀 ผลงานเด่น (Featured Projects)
 
-<table border="0" width="100%">
-  <tr valign="top">
-    <td width="50%" align="center">
-      <a href="https://github.com/Jiraput2004/DTI_SAU_WOW_COFFEE">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=DTI_SAU_WOW_COFFEE&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=16" width="100%" alt="DTI_SAU_WOW_COFFEE" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Jiraput2004/GOTOKNOW">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=GOTOKNOW&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=16" width="100%" alt="GOTOKNOW" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <a href="https://github.com/Jiraput2004/DTI_SAU_WOW_COFFEE">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=DTI_SAU_WOW_COFFEE&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=20" width="41%" alt="DTI_SAU_WOW_COFFEE" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Jiraput2004/GOTOKNOW">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=GOTOKNOW&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=20" width="41%" alt="GOTOKNOW" />
+  </a>
+
+</div>
