@@ -1,10 +1,12 @@
-<!-- Header Banner -->
+<!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17&height=220&section=header&text=Jiraput%20Nayem&fontSize=42&fontAlignY=38&desc=Digital%20Technology%20%26%20Innovation%20(DTI)%20%7C%20SAU&descAlignY=58&descFontSize=18&fontColor=ffffff" width="100%" />
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Jiraput%20Nayem%20%F0%9F%91%8B&text2=Digital%20Technology%20%26%20Innovation%20(DTI)%20%7C%20SAU&width=800&height=210&theme=dark" width="100%" alt="Header Banner" />
+
+  <br/><br/>
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Non+%F0%9F%91%8B;Passionate+about+Web+Development;DTI+Student+%40+Southeast+Asia+University;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Non+%F0%9F%91%8B;Passionate+about+Web+Development+%E2%9C%A8;DTI+Student+%40+Southeast+Asia+University;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,7 +15,7 @@
 ### 👨‍💻 ข้อมูลส่วนตัว (About Me)
 
 - 🎓 **กำลังศึกษา:** สาขาเทคโนโลยีดิจิทัลและนวัตกรรม (DTI) คณะศิลปศาสตร์และวิทยาศาสตร์ **มหาวิทยาลัยเอเชียอาคเนย์ (SAU)**
-- 💡 **ความสนใจหลัก:** Full-stack Web Development & Database Architecture
+- 💻 **ความสนใจหลัก:** Full-stack Web Development & Database Architecture
 - 🎯 **เป้าหมาย:** มุ่งมั่นพัฒนาทักษะการเขียนโปรแกรมเพื่อสร้างสรรค์นวัตกรรมดิจิทัลที่มีประโยชน์
 - ⚡ **Fun Fact:** ชอบทดลองเครื่องมือและเทคโนโลยีใหม่ๆ อยู่เสมอ
 
@@ -21,42 +23,11 @@
 
 ### 🛠️ ทักษะและความเชี่ยวชาญ (Tech Stack)
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/rest-icon.svg" alt="icon" width="40" height="40" />
-      <br><strong>Frontend</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/rest-icon.svg" alt="icon" width="40" height="40" />
-      <br><strong>Backend & DB</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/rest-icon.svg" alt="icon" width="40" height="40" />
-      <br><strong>Tools</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    </td>
-  </tr>
-</table>
+| หมวดหมู่ | ภาษาและเครื่องมือที่ใช้งาน |
+| :--- | :--- |
+| **Frontend** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> |
+| **Backend & DB** | <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> |
+| **Tools & Others** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
 
 ---
 
@@ -73,11 +44,16 @@
 
 ---
 
-### 🌐 ช่องทางการติดต่อ (Connect with Me)
+### 📫 ช่องทางการติดต่อ (Connect with Me)
 
-<p align="center">
+<div align="center">
+  <a href="https://www.instagram.com/jt_nm_08.08?stkn=MWlqbjNlbXZqOXgxZg==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Jiraput2004&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17&height=100&section=footer" width="100%" />
+</div>
