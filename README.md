@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- 🌌 Banner Header ลายแผงวงจร Cyber Circuit สีนีออน -->
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" width="100%" height="220" style="object-fit: cover; border-radius: 12px;" alt="Banner" />
-
-<br/><br/>
-
 # ⚡ JIRAPUT NAYEM (NON) ⚡
 ### 🚀 Digital Technology & Innovation (DTI) | Southeast Asia University 🎓
 
@@ -60,15 +55,14 @@
 ### 📊 สถิติและกิจกรรม (GitHub Performance)
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&theme=tokyonight&border_radius=12" height="175" alt="Top Langs" />
-</div>
 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&theme=tokyonight&border_radius=12" alt="GitHub Streak" />
-</div>
+| 📈 GitHub Overview | 💻 Most Used Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12" height="185" alt="GitHub Stats" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&theme=tokyonight&border_radius=12" height="185" alt="Top Langs" /> |
 
 <br/>
 
-<!-- Footer Wave ปิดท้าย -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,3&height=100&section=footer" width="100%" />
+<!-- Streak การเขียนโค้ดต่อเนื่อง จัดวางเต็มความกว้างด้านล่าง -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&theme=tokyonight&border_radius=12" width="60%" alt="GitHub Streak" />
+
+</div>
