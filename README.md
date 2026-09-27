@@ -50,37 +50,33 @@
 </div>
 
 ---
+
 ### 🌸 สถิติและกิจกรรม (GitHub Performance)
 
-<table border="0" width="100%">
-  <!-- แถวที่ 1: สถิติ GitHub + สัดส่วนภาษาที่เขียน -->
-  <tr valign="middle">
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=16&v=2" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&text_color=555555&border_radius=16&card_width=450&v=2" width="100%" alt="Top Langs" />
-    </td>
-  </tr>
-  <!-- แถวที่ 2: Streak ต่อเนื่อง + กราฟสรุปประวัติ Commit คลื่นสีชมพูพาสเทล ขอบมน -->
-  <tr valign="middle">
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ffb6c1&stroke=ffb6c1&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=16&v=2" width="100%" alt="GitHub Streak" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&include_all_commits=true&count_private=true&hide=stars,prs,issues&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=16&custom_title=Commit%20%26%20Contribution%20Summary&v=2" width="100%" alt="Commit & Contribution Summary" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- แถวที่ 1: สถิติ GitHub + สัดส่วนภาษาที่ใช้ -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=16&cache_seconds=1800" width="48%" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&langs_count=5&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&text_color=555555&border_radius=16&card_width=450&cache_seconds=1800" width="48%" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <!-- แถวที่ 2: Streak ต่อเนื่อง + สรุปประวัติการ Commit และแก้งานสะสมทั้งหมด -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ffb6c1&stroke=ffb6c1&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=16" width="48%" alt="GitHub Streak" />
+  &nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=16&custom_title=All-Time%20Contribution%20Stats&cache_seconds=1800" width="48%" alt="All-Time Stats" />
+</p>
+
+---
 
 ### 🎀 ผลงานเด่น (Featured Projects)
 
 <p align="center">
   <a href="https://github.com/Jiraput2004/DTI_SAU_WOW_COFFEE">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=DTI_SAU_WOW_COFFEE&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=16" width="45%" alt="DTI_SAU_WOW_COFFEE" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=DTI_SAU_WOW_COFFEE&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=16" width="47%" alt="DTI_SAU_WOW_COFFEE" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Jiraput2004/GOTOKNOW">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=GOTOKNOW&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=16" width="45%" alt="GOTOKNOW" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=GOTOKNOW&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=16" width="47%" alt="GOTOKNOW" />
   </a>
 </p>
