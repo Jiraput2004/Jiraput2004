@@ -53,30 +53,34 @@
 
 ### 🌸 สถิติและกิจกรรม (GitHub Performance)
 
-<p align="center">
-  <!-- แถวที่ 1: สถิติ GitHub + สัดส่วนภาษาที่ใช้ -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=16&cache_seconds=1800" width="48%" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&langs_count=5&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&text_color=555555&border_radius=16&card_width=450&cache_seconds=1800" width="48%" alt="Top Langs" />
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- แถวที่ 2: Streak ต่อเนื่อง + สรุปประวัติการ Commit และแก้งานสะสมทั้งหมด -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ffb6c1&stroke=ffb6c1&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=16" width="48%" alt="GitHub Streak" />
-  &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=16&custom_title=All-Time%20Contribution%20Stats&cache_seconds=1800" width="48%" alt="All-Time Stats" />
-</p>
+  <!-- แถวที่ 1: สถิติรวม + ภาษาที่เขียน (สูง 195 เท่ากันเป๊ะ) -->
+  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=16&hide=prs,issues&v=3" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&langs_count=5&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&text_color=555555&border_radius=16&card_width=420&v=3" alt="Top Langs" />
+
+  <br/><br/>
+
+  <!-- แถวที่ 2: Streak ต่อเนื่อง + สรุปภาพรวม Commit ไม่ซ้ำอันบน (สูง 195 เท่ากันเป๊ะ) -->
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ffb6c1&stroke=ffb6c1&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=16&v=3" alt="GitHub Streak" />
+  &nbsp;&nbsp;
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiraput2004&theme=pink" alt="Profile Summary" />
+
+</div>
 
 ---
 
 ### 🎀 ผลงานเด่น (Featured Projects)
 
-<p align="center">
+<div align="center">
+
   <a href="https://github.com/Jiraput2004/DTI_SAU_WOW_COFFEE">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=DTI_SAU_WOW_COFFEE&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=16" width="47%" alt="DTI_SAU_WOW_COFFEE" />
+    <img height="125" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=DTI_SAU_WOW_COFFEE&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=16&v=3" alt="DTI_SAU_WOW_COFFEE" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Jiraput2004/GOTOKNOW">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=GOTOKNOW&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=16" width="47%" alt="GOTOKNOW" />
+    <img height="125" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=GOTOKNOW&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=16&v=3" alt="GOTOKNOW" />
   </a>
-</p>
+
+</div>
