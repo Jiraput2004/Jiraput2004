@@ -53,39 +53,37 @@
 
 ### 🌸 สถิติและกิจกรรม (GitHub Performance)
 
-<div align="center">
-
-  <!-- 1. การ์ดภาพรวมสถิติ GitHub -->
-  <img width="80%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=20" alt="GitHub Stats" />
-
-  <br/><br/>
-
-  <!-- 2. การ์ดภาษาที่ใช้งานมากที่สุด -->
-  <img width="80%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&langs_count=6&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&text_color=555555&border_radius=20" alt="Top Langs" />
-
-  <br/><br/>
-
-  <!-- 3. การ์ดสถิติการ Commit ต่อเนื่อง (Streak) -->
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ffb6c1&stroke=ffb6c1&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=20" alt="GitHub Streak" />
-
-</div>
+<table border="0" width="100%">
+  <!-- แถวที่ 1: ภาพรวมสถิติ + สัดส่วนภาษาที่เขียน -->
+  <tr valign="middle">
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=16&cache_seconds=1800" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&text_color=555555&border_radius=16&card_width=450&cache_seconds=1800" width="100%" alt="Top Langs" />
+    </td>
+  </tr>
+  <!-- แถวที่ 2: สถิติทำต่อเนื่อง (Streak) + สรุปจำนวนครั้งที่อัปงาน/แก้งานทั้งหมด -->
+  <tr valign="middle">
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ffb6c1&stroke=ffb6c1&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=16" width="100%" alt="GitHub Streak" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiraput2004&theme=pink" width="100%" alt="Commit & Contribution History" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🎀 ผลงานเด่น (Featured Projects)
 
-<div align="center">
-
-  <!-- ผลงานชิ้นที่ 1 -->
+<p align="center">
   <a href="https://github.com/Jiraput2004/DTI_SAU_WOW_COFFEE">
-    <img width="80%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=DTI_SAU_WOW_COFFEE&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=20" alt="DTI_SAU_WOW_COFFEE" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=DTI_SAU_WOW_COFFEE&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=16" width="45%" alt="DTI_SAU_WOW_COFFEE" />
   </a>
-
-  <br/><br/>
-
-  <!-- ผลงานชิ้นที่ 2 -->
+  &nbsp;&nbsp;
   <a href="https://github.com/Jiraput2004/GOTOKNOW">
-    <img width="80%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=GOTOKNOW&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=20" alt="GOTOKNOW" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=GOTOKNOW&bg_color=ffffff&border_color=ffb6c1&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=16" width="45%" alt="GOTOKNOW" />
   </a>
-
-</div>
+</p>
