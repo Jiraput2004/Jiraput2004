@@ -55,31 +55,27 @@
 <div align="center">
 
   <!-- แถวที่ 1 -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ff7597&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=20&v=5" width="48%" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&langs_count=5&card_width=450&bg_color=ffffff&border_color=ff7597&title_color=ff7597&text_color=555555&border_radius=20&v=5" width="48%" alt="Top Langs" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&bg_color=ffffff&border_color=ff7597&title_color=ff7597&icon_color=ff7597&text_color=555555&rank_icon=github&border_radius=20&cache_bust=1" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&langs_count=5&card_width=400&bg_color=ffffff&border_color=ff7597&title_color=ff7597&text_color=555555&border_radius=20&cache_bust=1" alt="Top Langs" />
 
   <br/><br/>
 
   <!-- แถวที่ 2 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ff7597&stroke=ff7597&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=20&v=5" width="48%" alt="GitHub Streak" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiraput2004&theme=pink" width="48%" alt="Commit & Contribution History" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&background=ffffff&border=ff7597&stroke=ff7597&ring=ff7597&fire=ff7597&currStreakLabel=ff7597&border_radius=20&cache_bust=1" alt="GitHub Streak" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=DTI_SAU_WOW_COFFEE&bg_color=ffffff&border_color=ff7597&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=20&cache_bust=1" alt="DTI_SAU_WOW_COFFEE" />
 
 </div>
 
 ---
 
-### 🎀 ผลงานเด่น (Featured Projects)
+### 🎀 ผลงานเพิ่มเติม (Other Projects)
 
 <div align="center">
 
-  <a href="https://github.com/Jiraput2004/DTI_SAU_WOW_COFFEE">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=DTI_SAU_WOW_COFFEE&bg_color=ffffff&border_color=ff7597&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=20&v=5" width="47%" alt="DTI_SAU_WOW_COFFEE" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/Jiraput2004/GOTOKNOW">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=GOTOKNOW&bg_color=ffffff&border_color=ff7597&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=20&v=5" width="47%" alt="GOTOKNOW" />
+    <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=GOTOKNOW&bg_color=ffffff&border_color=ff7597&title_color=ff7597&icon_color=ff7597&text_color=555555&border_radius=20&cache_bust=1" alt="GOTOKNOW" />
   </a>
 
 </div>
