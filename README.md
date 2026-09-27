@@ -22,8 +22,10 @@
 
 ### 📊 สถิติของฉัน (GitHub Stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jiraput2004&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p### 📊 สถิติของฉัน (GitHub Stats)
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&theme=radical" alt="Top Langs" />
+</div>
