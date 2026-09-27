@@ -7,12 +7,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer+%E2%9C%A8;Frontend+%26+Database+Enthusiast;Always+Building+%26+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- 🌐 Instagram Badge -->
-<a href="https://www.instagram.com/jt_nm_08.08?stkn=MWlqbjNlbXZqOXgxZg==" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+<p align="center">
+  <a href="https://www.instagram.com/jt_nm_08.08?stkn=MWlqbjNlbXZqOXgxZg==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 </div>
 
@@ -54,30 +53,21 @@
 
 ### 📊 สถิติและกิจกรรม (GitHub Performance)
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&theme=default&rank_icon=github&border_radius=10" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&theme=default&border_radius=10" width="48%" alt="Top Langs" />
+</p>
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jiraput2004&show_icons=true&theme=default&rank_icon=github&border_radius=10" height="195" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jiraput2004&layout=compact&theme=default&border_radius=10" height="195" alt="Top Langs" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&theme=default&border_radius=10" width="97%" alt="GitHub Streak" />
+</p>
+### 📌 ผลงานเด่น (Featured Projects)
 
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiraput2004&theme=default&border_radius=10" width="60%" alt="GitHub Streak" />
-
-</div>
-
----
-
-### 📌 ผลงานเด่น (Featured Repositories)
-
-<div align="center">
-
-  <a href="https://github.com/Jiraput2004/JavaDTILecture01">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=JavaDTILecture01&theme=default&border_radius=10" height="120" />
+<p align="center">
+  <a href="https://github.com/Jiraput2004/DTI_SAU_WOW_COFFEE">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=DTI_SAU_WOW_COFFEE&theme=default&border_radius=10" width="48%" alt="DTI_SAU_WOW_COFFEE" />
   </a>
-  &nbsp;
-  <a href="https://github.com/Jiraput2004/JavaDTILecture02">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=JavaDTILecture02&theme=default&border_radius=10" height="120" />
+  <a href="https://github.com/Jiraput2004/GOTOKNOW">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jiraput2004&repo=GOTOKNOW&theme=default&border_radius=10" width="48%" alt="GOTOKNOW" />
   </a>
-
-</div>
+</p>
